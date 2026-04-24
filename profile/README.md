@@ -2,8 +2,6 @@
 
 Scaffolding for building, evolving, and operating systems safely.
 
----
-
 ## About
 
 **Kiunzi** is a framework for providing structural patterns, tooling, and conventions that help teams
@@ -17,7 +15,3 @@ It focuses on:
 - conservative, production‑first defaults
 
 Kiunzi is designed to be pragmatic, boring, and dependable.
-
----
-
-*Kiunzi is an open‑source project maintained by the KIUNZI organisation.*
